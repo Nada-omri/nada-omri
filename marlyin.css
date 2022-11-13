@@ -1,0 +1,33 @@
+body{
+    background-image:url("https://i.pinimg.com/564x/da/eb/a3/daeba3cb0219a773dade88bef161c0be.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    color:brown;
+    font-size: 100pt ;
+    text-align: center;
+}
+.intro{
+    font-weight: 900;
+    font-size: 20pt;
+    font-style: oblique;
+    color:darkblue;
+
+}
+.family {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 15pt;
+    font-style: normal;
+    line-height: 200%;
+    color:black;
+}
+h2{
+    color:brown;
+}
+.p{
+    font-weight: bold;
+    font-style: normal;
+    font-size: 20pt;
+}
